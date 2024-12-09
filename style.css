@@ -1,0 +1,9 @@
+ul {
+	background: white; width: 2000px; height: 150px;
+}
+ul li{
+	display: inline; padding: 10px;
+}
+ul li a{text-decoration: none; color: grey; padding-inline: 70px;}
+ul li a:hover{background-color: whitesmoke; color: purple;}
+
